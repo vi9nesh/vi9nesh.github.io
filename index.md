@@ -21,11 +21,11 @@ All SAS macros exists to save time and development! These are a mix of procedure
 
 ### Reporting Macros
 
-### rmreport.sas reference
+### rmreport.sas
 
 Generates RTF report
 
-***PARAMETERS:***
+#### PARAMETERS:
 
 | Parameter        | Type     | Default   | Details                                                                                                           |
 |------------------|----------|-----------|-------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ Generates RTF report
 | pgbreakobs       | Optional |           | Integer value to apply page break in PROC REPORT display.                                                         |
 | fileid           | Required |           | Filename without extension to save the RTF report.                                                                |
 
-***EXAMPLES:***
+#### EXAMPLES:
 
 
 ### Support or Contact
