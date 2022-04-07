@@ -26,7 +26,7 @@ All SAS macros exists to save time and development! These are a mix of procedure
 Generates RTF report
 
 ***PARAMETERS:***
-| Parameter | Type | Default Value | Description |
+| Parameter | Type | Default | Description |
 | --- | --- | --- | --- |
 
 
