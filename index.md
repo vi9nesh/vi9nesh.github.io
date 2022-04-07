@@ -10,14 +10,25 @@ All SAS macros exists to save time and development! These are a mix of procedure
 - filenames must be lowercase, without spaces
 - macro names must be lowercase
 - macro prefixes:
-  - _gm_ stands for General macros
+  - _gm_ stands for General macros as procedures
   - _gu_ stands for General utilities
-  - _sm_ stands for SDTM macros 
+  - _sm_ stands for SDTM macros as procedures
   - _su_ stands for SDTM utilities
-  - _am_ stands for ADAM macros
+  - _am_ stands for ADAM macros as procedures
   - _au_ stands for ADAM utilities
-  - _rm_ stands for Reporting (TFL) macros
+  - _rm_ stands for Reporting (TFL) macros as procedures
   - _ru_ stands for Reporting (TFL) utilities 
+
+### Reporting Macros
+
+#### Procedures
+
+##### _rmreport_ 
+
+
+
+#### Utilities
+
 
 ### Support or Contact
 
