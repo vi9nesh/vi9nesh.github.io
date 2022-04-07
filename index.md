@@ -23,8 +23,15 @@ All SAS macros exists to save time and development! These are a mix of procedure
 
 #### Procedures
 
-##### _rmreport_ 
+##### rmreport.sas reference
 
+** Description **
+
+
+** Usage **
+
+
+** Examples **
 
 
 #### Utilities
