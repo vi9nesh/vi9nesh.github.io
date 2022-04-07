@@ -25,13 +25,13 @@ All SAS macros exists to save time and development! These are a mix of procedure
 
 ##### rmreport.sas reference
 
-**Description**
+***DESCRIPTION:*** Generates RTF report
 
+***PARAMETERS:***
 
-**Usage**
+***USAGE:***
 
-
-**Examples**
+***EXAMPLES:***
 
 
 #### Utilities
